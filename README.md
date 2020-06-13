@@ -41,6 +41,7 @@ You must also have your main function in a play_game.cpp file, separated from th
 Create a Makefile for you project.
 (10 pts) Program Style/Comments
 In your implementation, make sure that you include a program header in your program, in addition to proper indentation/spacing and other comments! Below is an example header to include. Make sure you review the style guidelines for this class, and begin trying to follow them, i.e. don’t align everything on the left or put everything on one line! Also view the “Things not to do in the code” page and the “Things you need to do in your code” page as you will be held to these.
+
 /******************************************************
 ** Program: card_games.cpp
 ** Author: Your Name
@@ -48,7 +49,8 @@ In your implementation, make sure that you include a program header in your prog
 ** Description:
 ** Input:
 ** Output:
-******************************************************
+******************************************************/
+
 (10 pts) Report (pdf)
 (5 pts) How did your design in this project change during implementation?
 (5 pts) What were the actual values from your testing? Did these match your expected values? What did you do to make sure you get the expected values?
